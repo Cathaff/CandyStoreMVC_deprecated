@@ -1,0 +1,6 @@
+@CandyStore_HostAddress = http://localhost:5005
+
+GET {{CandyStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
